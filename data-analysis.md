@@ -1,6 +1,9 @@
 ## Data Analysis (27 questions)
 
 #### 1. (Given a Dataset) Analyze this dataset and tell me what you can learn from it.
+- understand the meaning of each column, possible relationships
+- visualize (bar chart, histogram, line chart...)
+- missing values and abnormal values
 #### 2. What is R2? What are some other metrics that could be better than R2 and why?
 (In statistics, the coefficient of determination, denoted R² or r² and pronounced R squared, is a number that indicates how well data fit a statistical model – sometimes simply a line or a curve. An R² of 1 indicates that the regression line perfectly fits the data, while an R² of 0 indicates that the line does not fit the data at all.)
   - goodness of fit measure. variance explained by the regression / total variance
